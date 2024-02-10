@@ -1,0 +1,2 @@
+Two files - clients_secrets.json and token.pickle has not been uploaded due to security reasons.
+The file clients_secrets.json can be generated from the google developer console for use in YouTube API and token.pickle is a access code stored when the youtube channel owner authorises the moderator to checkout his comments for toxic comments first time. After authorising it for the first time, the channel owner need not to provide the auth next time, as the stored token will do the acessibility work.

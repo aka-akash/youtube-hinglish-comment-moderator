@@ -1,0 +1,1 @@
+API_KEYs need to be generated from google developer console and needed to be stored in file named "API_KEY.py", in a string as stored_api_key = "YOUR API KEY".
