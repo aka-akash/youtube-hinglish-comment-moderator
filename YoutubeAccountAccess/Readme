@@ -1,3 +1,0 @@
-Two files are deleted in this folder. 
-One allows for the client access for the video creator to identify the moderator. In this your client id generated from google developer profile will be used.
-Other file is token file which will be generated to create token for access using the client id.
